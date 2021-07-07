@@ -1,2 +1,3 @@
-# impact-hackathon-issues
-Accessible to the public. For reporting issues and requesting enhancements or new features.
+# Issue Tracker for the IHM Hackathon Platform 
+
+Go to the [issues tab](https://github.com/Impact-Hub-Manila/impact-hackathon-issues/issues) to report issues and request enhancements or new features.
